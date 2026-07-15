@@ -1,0 +1,16 @@
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
