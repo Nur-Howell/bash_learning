@@ -4,6 +4,8 @@ The purpose of this repository is to document and display concepts that I have l
 ---
 ## Things I have done so far:
 
+![Ubuntu VM] (images/ubuntu-linux.jpg)
+
 ### Linux
 
 * Overview of distributions
