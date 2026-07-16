@@ -1,5 +1,4 @@
 # Platform Engineering Journey
-
 The purpose of this repository is to document and display concepts that I have learnt and still learning over time with regards to Platform Engineering.
 
 ---
