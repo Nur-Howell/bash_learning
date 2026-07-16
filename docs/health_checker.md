@@ -14,5 +14,12 @@ mkdir -p logs
 timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
 logfile="logs/system_report_$timestamp.txt"
 ```
+``` 
+{
+
+...
+
+} tee | "$logfile"
+```
 > [!Note]
 > If you want to execute the actual file, then go to the [repo](https://github.com/Nur-Howell/linux-system-health-checker).
