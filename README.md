@@ -18,4 +18,4 @@ The purpose of this repository is to document and display concepts that I have l
 * Bash Scripting
 * Network Basics
 * Process Management
-* `Linux System Health Checker` [LSHC](https://github.com/Nur-Howell/linux-system-health-checker)
+* `Linux System Health Checker` [Visit Repository](https://github.com/Nur-Howell/linux-system-health-checker)
