@@ -9,6 +9,10 @@
   - `free -h`
   - `systemctl is-active apache2`
   - `systemctl is-active ssh`
-  - ```mkdir -p logs
+```
+mkdir -p logs
 timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
-logfile="logs/system_report_$timestamp.txt" ```
+logfile="logs/system_report_$timestamp.txt"
+```
+[!Note]
+> If you want to execute the actual file, then go to the [repo] (https://github.com/Nur-Howell/linux-system-health-checker) .
