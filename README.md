@@ -16,3 +16,6 @@ The purpose of this repository is to document and display concepts that I have l
 * User Management
 * Package Management
 * Bash Scripting
+* Network Basics
+* Process Management
+* `Linux System Health Checker` [LSHC](https://github.com/Nur-Howell/linux-system-health-checker)
